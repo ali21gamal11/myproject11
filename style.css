@@ -1,8 +1,8 @@
 body{
-    background-color: #444455;
+    background-color: #be2525;
 }
 div{
-    background-color: rgb(68, 53, 35);
+    background-color: rgb(230, 217, 200);
     width:fit-content;
     
 }
@@ -11,4 +11,5 @@ div:hover{
 }
 span{
     color: #5c2858;
+    font-size: 30px;
 }
