@@ -1,0 +1,11 @@
+div{
+    background-color: rgb(68, 53, 35);
+    width:fit-content;
+    
+}
+div:hover{
+    background-color: transparent;
+}
+span{
+    color: #c136b8;
+}
